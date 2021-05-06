@@ -1,11 +1,10 @@
-import logging
 import string
 import emoji
 
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = '1361020830:AAGRvqqpre8A18EfaAQEQ9UC-8tWCz8sczg'
-logging.basicConfig(level=logging.INFO)
+API_TOKEN = 'id:your_token_here'
+
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
