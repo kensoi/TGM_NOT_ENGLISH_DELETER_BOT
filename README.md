@@ -1,2 +1,2 @@
-# TGM_NOT_ENGLISH_DELETER_BOT
- 
+# DNEM - bot, which Deletes Not English Messages (source)
+(archived)
